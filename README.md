@@ -1,1 +1,3 @@
-# human-design
+### Human Design
+* [Privacy Policy](privacy-policy.md)
+* [Terms & Conditions](terms-and-conditions.md)
